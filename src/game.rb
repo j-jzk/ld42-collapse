@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require 'rubygems'
 require 'gosu'
 require_relative './gameobject.rb'
